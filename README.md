@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/React-89B4FA?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 <p align="center">
-  <em>✨Meu interesse especial é <strong>Cybersecurity/Frontend/Mobile</strong>✨</em>
+  <em>✨ Meu interesse especial é <strong>Cybersecurity/Frontend/Mobile</strong> ✨</em>
 </p>
 
 ---
@@ -40,6 +40,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/--G-13pUjVAAAAAC/cat-coding.gif" width="300" />
-</p>
