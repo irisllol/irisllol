@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000009924720eb372f12ea9a1f7ee&ts=492068&p=fs&cid=1&sig=882eccb71c5e7168452be23e13901fa79fb4ceed047a2915eb22802905f6c5a2&v=0" width="400" />
+  <img src=""<img width="1536" height="1024" alt="ea4d726c-76a2-4e43-8fef-fdcc641ac0bd" src="https://github.com/user-attachments/assets/ac2a8484-c598-438a-971b-af958b0f0af9" />
+ width="400" />
 </p>
 
 <h1 align="center">
