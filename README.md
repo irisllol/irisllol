@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/19b937cbf73053a9b7b348cc64f31c923c053263eb1f19714a4e54f74e214339/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f43344432324151453347716a496237714b6c412f6665656473686172652d736872696e6b5f3830302f302f313637373532353433303432353f653d3231343734383336343726763d6265746126743d71506c6d476450446336626f5963333054567250356c5a446a314f576c5653546a636b7149466535655363" width="400" />
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000009924720eb372f12ea9a1f7ee&ts=492068&p=fs&cid=1&sig=882eccb71c5e7168452be23e13901fa79fb4ceed047a2915eb22802905f6c5a2&v=0" width="400" />
 </p>
 
 <h1 align="center">
@@ -12,12 +12,12 @@
   <br />
   Sou uma exploradora de código em uma jornada para aprender coisas novas
   <br />
-  e transformar Coquinha Zero 🥤 em linhas de códigos!
+  e transformar Coquinha Zero em linhas de códigos!
 </p>
 
 ---
 
-<h3 align="center">🌱 Algumas coisinhas que estudo</h3>
+<h3 align="center">Algumas coisinhas que estudo</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-F08080?style=for-the-badge&logo=rust&logoColor=white" />
